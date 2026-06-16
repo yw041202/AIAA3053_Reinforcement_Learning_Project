@@ -27,5 +27,5 @@ This report analyzes one foundational review and four representative research ar
 4. **CGB-MATSC** – Group-based regional agent abstraction and coordination
 
 ## File Structure
-├── AIAA3053_Reinforcement_Learning_Final_Project_Report.pdf
+├── AIAA3053_Reinforcement_Learning_Final_Project_Report.pdf  
 └── README.md
